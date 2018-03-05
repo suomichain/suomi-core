@@ -1,0 +1,1 @@
+recursive-include suomi_ias_client *.py
